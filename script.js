@@ -106,7 +106,7 @@ function showQuestion() {
 
     currentOptions.forEach((opt, idx) => {
         const btn = document.createElement('button');
-        btn.textContent = opt.text;
+        btn.innerHTML = opt.text;
         btn.className = 'option-btn';
         btn.onclick = () => toggleOption(btn, idx, selectLimit);
         optsContainer.appendChild(btn);
