@@ -121,7 +121,7 @@
   {
     "question": "Osztálydiagramon mit jelent az &lt;&lt;entity&gt;&gt; sztereotípia?",
     "options": [
-      { "text": "A felhasználó számára fontos entitások jelölésére szolgál Azon osztályok jelölése, melyek attribútumait perzisztálni kell", "correct": false },
+      { "text": "A felhasználó számára fontos entitások jelölésére szolgál", "correct": false },
       { "text": "Azon osztályok jelölése, melyek attribútumait perzisztálni kell", "correct": true },
       { "text": "Az adatbázisbe írást megvalósító osztályok jelölése", "correct": false }
     ],
